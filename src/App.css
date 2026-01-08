@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --bg-main: #0F2854;
+    --bg-primary: #1C4D8D;
+    --bg-secondary: rgb(73, 136, 196);
+    --bg-light: rgb(188, 232, 245);
+    --highlight: #F5C45E;
+}
+
+
+main {
+    position: relative;
+    z-index: 1;
+    height: 100vh;
+    background-color: white;
+    position: relative;
+}
